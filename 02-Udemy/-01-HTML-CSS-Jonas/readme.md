@@ -12,7 +12,7 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo]((https://github.com/EsraaMhamed1/Kalbonyan-Elmarsos/tree/main/02-Udemy/-01-HTML-CSS-Jonas/Projects/Omnifood)
+- [Live Demo](https://esraamhamed1.github.io/omnifood-app/)
 ---
 ## Code
 - [Code](Code)
