@@ -17,12 +17,12 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo](https://esraamhamed1.github.io/pig-Game/)
+- [Live Demo](https://dazzling-blancmange-e76d48.netlify.app/)
 
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo](https://esraamhamed1.github.io/Bankist/)
+- [Live Demo](https://inquisitive-longma-c4b500.netlify.app/)
 
 ### Bankist Site
 
