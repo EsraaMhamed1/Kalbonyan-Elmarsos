@@ -32,7 +32,7 @@
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo](https://esraamhamed1.github.io/mapty-app/)
+- [Live Demo](https://moonlit-yeot-745733.netlify.app/)
 
 ### Forkify
 
