@@ -10,7 +10,7 @@
 - [done] [A Closer Look at Functions](./Challenges/A%20Closer%20Look%20at%20Functions/)
 - [done] [Working With Arrays.](./Challenges/Working%20With%20Arrays/)
 - [done] [Object Oriented Programming (OOP)](<./Challenges/Object%20Oriented%20Programming%20(OOP)/>)
-- [ ] [Asynchronous JavaScript](./Challenges/Asynchronous%20JavaScript/)
+- [done] [Asynchronous JavaScript](./Challenges/Asynchronous%20JavaScript/)
 
 ## Projects
 
