@@ -4,7 +4,7 @@
 
 ### expenses-app (S3-S5)
 
-- [Section 3 Code](./Projects/Expenses-app/S03-project)
+- [Section 3 Code](https://profound-basbousa-7d4344.netlify.app/)
 - [Section 4 Code](./Projects/Expenses-app/S04-project/)
 - [Section 5 Code](./Projects/Expenses-app/S05-project/)
 
