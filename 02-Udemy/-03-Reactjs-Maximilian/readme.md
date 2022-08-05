@@ -21,7 +21,7 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
+- [Section 6 Project Live Demo](https://jade-gumdrop-f249fa.netlify.app/)
 - [Section 7 Project Live Demo]()
 
 ### Section 8-9 Project
