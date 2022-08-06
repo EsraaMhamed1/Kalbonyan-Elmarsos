@@ -22,7 +22,7 @@
 <br/>
 
 - [Section 6 Project Live Demo](https://jade-gumdrop-f249fa.netlify.app/)
-- [Section 7 Project Live Demo]()
+- [Section 7 Project Live Demo](https://neon-cobbler-39c9a0.netlify.app/)
 
 ### Section 8-9 Project
 
