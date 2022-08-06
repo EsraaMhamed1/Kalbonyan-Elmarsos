@@ -17,7 +17,7 @@
 ### goals app (S6-S7)
 
 - [Section 6 Code](./Projects/goals-app/S06-project/)
-- [Section 7 Code](./Projects/goals-app/S07-project/)
+- [Section 7 Code](https://effervescent-clafoutis-cd57e6.netlify.app/)
 
 <br/>
 
