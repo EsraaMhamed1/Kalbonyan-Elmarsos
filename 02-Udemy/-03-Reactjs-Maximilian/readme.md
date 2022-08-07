@@ -27,7 +27,7 @@
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo]()
+- [Live Demo](https://dreamy-biscotti-0e2602.netlify.app/)
 
 ### Login-app (S10)
 
