@@ -17,12 +17,12 @@
 ### goals app (S6-S7)
 
 - [Section 6 Code](./Projects/goals-app/S06-project/)
-- [Section 7 Code](https://effervescent-clafoutis-cd57e6.netlify.app/)
+- [Section 7 Code](./Projects/goals-app/S07-project/)
 
 <br/>
 
 - [Section 6 Project Live Demo](https://jade-gumdrop-f249fa.netlify.app/)
-- [Section 7 Project Live Demo](https://neon-cobbler-39c9a0.netlify.app/)
+- [Section 7 Project Live Demo](https://effervescent-clafoutis-cd57e6.netlify.app/)
 
 ### Section 8-9 Project
 
