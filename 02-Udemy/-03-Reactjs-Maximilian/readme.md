@@ -32,7 +32,7 @@
 ### Login-app (S10)
 
 - [Project-code](./Projects/Login-app-s10/)
-- [Live Demo]()
+- [Live Demo](https://soft-otter-b66e4c.netlify.app/)
 
 ### Order-food App (S11)
 
