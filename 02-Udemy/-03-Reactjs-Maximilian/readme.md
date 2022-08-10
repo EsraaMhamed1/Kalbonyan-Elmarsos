@@ -47,7 +47,7 @@
 ### Section 13 Project
 
 - [Project-code](./Projects/S13-project)
-- [Live Demo]()
+- [Live Demo](https://jovial-melomakarona-0dcb7c.netlify.app/)
 
 ### movies app(S14)
 
