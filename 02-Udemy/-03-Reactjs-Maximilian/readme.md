@@ -57,7 +57,7 @@
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo]()
+- [Live Demo](https://sparkly-marzipan-4e09c1.netlify.app/)
 
 ### Form-app(S16)
 
