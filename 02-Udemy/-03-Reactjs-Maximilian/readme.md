@@ -77,7 +77,7 @@
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo]()
+- [Live Demo](https://storied-gaufre-f300dc.netlify.app/)
 
 ### Quotes app(S20)
 
