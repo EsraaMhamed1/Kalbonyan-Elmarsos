@@ -82,7 +82,7 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo]()
+- [Live Demo](https://meek-moxie-0c25a3.netlify.app/quotes)
 
 ### Authentication-page(S22)
 
