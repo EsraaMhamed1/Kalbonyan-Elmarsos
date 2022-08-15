@@ -10,7 +10,7 @@
 
   <br/>
 
-- [Section 3 Project Live Demo](https://profound-basbousa-7d4344.netlify.app/)
+- [Section 3 Project Live Demo](https://tiny-biscochitos-48d55f.netlify.app/)
 - [Section 4 Project Live Demo](https://dainty-baklava-3fba88.netlify.app/)
 - [Section 5 Project Live Demo](https://jovial-douhua-0f0002.netlify.app/)
 
