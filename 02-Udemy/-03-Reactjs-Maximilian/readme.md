@@ -82,7 +82,7 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo](https://guileless-conkies-d86852.netlify.app/quotes)
+- [Live Demo](https://capable-croissant-c50222.netlify.app/quotes/-N9YPzrcbF09wwIIpT5r)
 
 ### Authentication-page(S22)
 
