@@ -97,7 +97,7 @@
 ### Animation-app (S24)
 
 - [Project-code](./Projects/animation-app)
-- [Live Demo]()
+- [Live Demo](https://sensational-sunshine-81021d.netlify.app/)
 
 ### Products-app(S25)
 
