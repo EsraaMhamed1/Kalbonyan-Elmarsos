@@ -15,4 +15,4 @@
 - Modifying data
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/posts/esraa-mohamed-el-tehawy-25499b232_certificate-of-completion-activity-6932408169792950273-8t2m?utm_source=linkedin_share&utm_medium=member_desktop_web)
