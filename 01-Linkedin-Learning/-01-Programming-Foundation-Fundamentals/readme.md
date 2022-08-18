@@ -15,4 +15,4 @@
 - Learning about other languages
 -------------------------------
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/posts/esraa-mohamed-el-tehawy-25499b232_certificate-of-completion-activity-6923930398368378880-slMz?utm_source=linkedin_share&utm_medium=member_desktop_web)
