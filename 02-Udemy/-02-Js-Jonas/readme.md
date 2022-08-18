@@ -49,4 +49,4 @@
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 
-![Certificate](https://media-exp1.licdn.com/dms/image/sync/C4E27AQGuKlXWoNZmrQ/articleshare-shrink_800/0/1660313424318?e=1661464800&v=beta&t=aC6Ha8qm771iC_3mFoNktK54ye4kKhxkfjP0fHNzIw8)
+![Certificate](https://media-exp1.licdn.com/dms/image/sync/C4E27AQH09qSurNbZiA/articleshare-shrink_800/0/1660612657529?e=1661464800&v=beta&t=0lsq_whQdQPhsN_-laRIv3TrklVUdttEFYekKZhsAXc)
