@@ -49,4 +49,4 @@
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://www.linkedin.com/posts/esraa-mohamed-el-tehawy-25499b232_udemy-course-completion-certificate-activity-6952292830211911680-D4bE?utm_source=linkedin_share&utm_medium=member_desktop_web)
