@@ -82,7 +82,7 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo](https://capable-croissant-c50222.netlify.app/quotes/-N9YPzrcbF09wwIIpT5r)
+- [Live Demo](https://warm-starburst-82352c.netlify.app/quotes)
 
 ### Authentication-page(S22)
 
