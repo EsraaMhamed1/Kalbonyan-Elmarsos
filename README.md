@@ -23,7 +23,7 @@
 <br />
 - ## Programming foundations path and HTML and CSS
 
-    - [x] `done in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
+    - [x] `[done] in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
     - [x] `done in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
     - [x] `done in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](01-Linkedin-Learning/-03-Programming-Foundation-Object-Oriented-Design/)
     - [x] `done in progress` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](01-Linkedin-Learning/-04-Programming-Foundations-Data-Structures/)
@@ -48,8 +48,7 @@
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
-- [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
-- [done]  `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
+- [x]  `[done]in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 ## ReactJs - Select one of these 2 courses to complete
 - [done]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
 - [ ]  `in progress` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](/02-Udemy/-03-Reactjs-ZTM)
