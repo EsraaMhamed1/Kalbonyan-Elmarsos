@@ -45,7 +45,7 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![75%](https://progress-bar.dev/0/?title=Done)
+![75%](https://progress-bar.dev/75/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [x]  `[done] in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
