@@ -37,7 +37,7 @@
 
     <br />
 
-<img src="http://ude.my/UC-0ad43c57-4222-40d5-986d-d243557b43d3">
+<img src="">
 
 #
 - - - -
@@ -45,7 +45,7 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![75%](https://progress-bar.dev/75/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [x]  `[done] in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
@@ -53,8 +53,6 @@
 - [x]  `[done] in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian))
 ## NodeJs - Select one of these 2 courses to complete
 - [x] `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
-- [ ]  `in progress` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](./02-Udemy/-04-Nodejs-ZTM)
-
 <!--<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue"> -->
 <br />
 
