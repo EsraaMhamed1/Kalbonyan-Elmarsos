@@ -37,7 +37,7 @@
 
     <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-59h25m-blue">
+<img src="http://ude.my/UC-0ad43c57-4222-40d5-986d-d243557b43d3">
 
 #
 - - - -
