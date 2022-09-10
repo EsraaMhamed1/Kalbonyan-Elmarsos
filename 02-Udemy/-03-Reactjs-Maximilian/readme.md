@@ -107,7 +107,7 @@
 ### todo-app-TS(S27)
 
 - [Project-code](./Projects/todo-app-TS)
-- [Live Demo]()
+- [Live Demo](https://famous-choux-4e80ec.netlify.app/)
 
 ### ingredients-app(S28)
 
