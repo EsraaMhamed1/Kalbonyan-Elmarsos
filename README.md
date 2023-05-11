@@ -76,3 +76,9 @@
 # Learn How to Make serverless web applications
 ![0%](https://progress-bar.dev/0/?title=Done)
 - [ ] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
+
+# personal portfolio 
+ personal portfolio (https://esraamhamed1.github.io/Portfolio/)
+ 
+ # cv 
+ https://drive.google.com/file/d/1cSKOIZvwyutlbMHsCQts6A4T2pDbCXNm/view
